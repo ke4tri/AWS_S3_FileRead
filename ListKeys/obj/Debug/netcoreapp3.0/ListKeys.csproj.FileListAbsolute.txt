@@ -1,0 +1,14 @@
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\ListKeys.exe
+C:\Users\waynec\source\repos\ListKeys\ListKeys\obj\Debug\netcoreapp3.0\ListKeys.csprojAssemblyReference.cache
+C:\Users\waynec\source\repos\ListKeys\ListKeys\obj\Debug\netcoreapp3.0\ListKeys.AssemblyInfoInputs.cache
+C:\Users\waynec\source\repos\ListKeys\ListKeys\obj\Debug\netcoreapp3.0\ListKeys.AssemblyInfo.cs
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\ListKeys.deps.json
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\ListKeys.runtimeconfig.json
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\ListKeys.runtimeconfig.dev.json
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\ListKeys.dll
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\ListKeys.pdb
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\AWSSDK.Core.dll
+C:\Users\waynec\source\repos\ListKeys\ListKeys\bin\Debug\netcoreapp3.0\AWSSDK.S3.dll
+C:\Users\waynec\source\repos\ListKeys\ListKeys\obj\Debug\netcoreapp3.0\ListKeys.csproj.CopyComplete
+C:\Users\waynec\source\repos\ListKeys\ListKeys\obj\Debug\netcoreapp3.0\ListKeys.dll
+C:\Users\waynec\source\repos\ListKeys\ListKeys\obj\Debug\netcoreapp3.0\ListKeys.pdb
